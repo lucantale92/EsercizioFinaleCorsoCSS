@@ -3,7 +3,7 @@
 nav { 
     background-color:#580641;
     width: 100%;
-    height: 210px;
+    height: 150px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,7 +14,7 @@ nav {
 
 nav img {
     width: auto;
-    height: 150px; 
+    height: 100px; 
     display: block;
 }
 
@@ -30,7 +30,7 @@ ul {
 
 nav a {
     text-decoration: none;
-    font-size: 2em;
+    font-size: 1.4em;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     background-color: #dcdcdc;
@@ -85,7 +85,7 @@ body {
 
 .imageTop {
     width: 50%;
-    margin-top: 200px;
+    margin-top: 140px;
 }
 
 
@@ -111,7 +111,7 @@ body {
 }
 
 #titleHome2 p {
-    font-size: 2em;
+    font-size: 1.5em;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 0px 200px
 }
@@ -122,7 +122,7 @@ body {
 }
 
 #contentHome p {
-    font-size: 2em;
+    font-size: 1.5em;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding: 0 200px;
     text-align: center;
@@ -151,7 +151,7 @@ body {
 }
 
 #titleLifestyle2 p {
-    font-size: 2em;
+    font-size: 1.5em;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding: 0px 200px;
     text-align: center;
@@ -239,12 +239,12 @@ footer a:hover {
 #titlePunkMusic {
     color: #580641;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 7em;
+    font-size: 5em;
     text-align: center;
 }
 
 #titlePunkMusic2 p {
-    font-size: 2em;
+    font-size: 1.5em;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 0px 200px;
     text-align: center;
